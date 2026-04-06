@@ -3,22 +3,29 @@
 ```    
 Python_Fossee-task/
 │
+│
 ├── Task-1/ # Yaksh System Analysis
-│ ├── code.py # Python implementation
-│ ├── report.pdf # Final report
-│ └── results/ # Output files
+│ ├── code.py
+│ ├── report.pdf
+│ └── results/
 │
 ├── Task-2/ # AI Debugging Assistant
-│ ├── prompt.md # Designed prompt
-│ └── explanation.md # Working explanation
+│ ├── prompt.md
+│ └── explanation.md
 │
 ├── Task-3/ # Benchmark Analysis
-│ ├── data/ # Dataset used
-│ ├── scripts/ # Python scripts
-│ ├── results/ # Output results
+│ ├── data/
+│ ├── scripts/
+│ ├── results/
 │ └── report.pdf
 │
-└── README.md # Project overview
+├── Task-4/ # Error Taxonomy + Cross Verification
+│ ├── taxonomy/ # Taxonomy Development 
+│ ├── llm_testing/ # LLM API Testing 
+│ ├── verification/ # Human vs LLM Study 
+│ └── report.pdf
+│
+└── README.md
  ```
 ## 📌 Tasks
 
@@ -32,7 +39,7 @@ Python_Fossee-task/
 
 
 
-                                                                        TASK-1
+                                                                        TASK-2 (Initial Selection task)
 
 AI Debugging Assistant Prompt
 
