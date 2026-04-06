@@ -1,4 +1,26 @@
-                                                              TASK-2
+             Python_Fossee-task/
+│
+├── Task-1/ # Yaksh System Analysis
+│ ├── code.py # Python implementation
+│ ├── report.pdf # Final report
+│ └── results/ # Output files
+│
+├── Task-2/ # AI Debugging Assistant
+│ ├── prompt.md # Designed prompt
+│ ├── explanation.md # Working explanation
+│
+├── Task-3/ # Benchmark Analysis
+│ ├── data/ # Dataset used
+│ ├── scripts/ # Python scripts
+│ ├── results/ # Output results
+│ └── report.pdf
+│
+└── README.md # Project overview                                                
+
+
+
+
+                                                                        TASK-1
 
 AI Debugging Assistant Prompt
 
