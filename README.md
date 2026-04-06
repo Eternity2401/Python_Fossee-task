@@ -1,3 +1,4 @@
+## 📁 Repository Structure
              Python_Fossee-task/
 │
 ├── Task-1/ # Yaksh System Analysis
@@ -17,6 +18,15 @@
 │
 └── README.md # Project overview                                                
 
+## 📌 Tasks
+
+### 🔹 Task-1
+- 📄 [Report](./Task-1/report.pdf)
+- 💻 [Code](./Task-1/code.py)
+
+### 🔹 Task-2
+- 📄 [Prompt](./Task-2/prompt.md)
+- 📝 [Explanation](./Task-2/explanation.md)
 
 
 
